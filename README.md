@@ -6,6 +6,7 @@ una normală(eticheta 0).
 Modele testate:
 
 - Naive-Bayes
+
 Am folosit modelul Multinomial Naive Bayes (MNB) din libraria sklearn.
 Modelul presupune că toate caracteristicile sunt independente și urmează o
 anumită distribuție de probabilitate, numită distribuție multinomială.
@@ -21,6 +22,7 @@ f1_score: 0.40598290598290604
 
 
 - Convolutional Neural Network(CNN)
+
 O Rețea Neuronală Convoluțională (CNN) este compusă din mai multe straturi, inclusiv straturi de convoluție, de max-pooling și de învățare a caracteristicilor. Straturile de convoluție scanează imaginea și detectează caracteristici precum marginile, colțurile, texturile etc.
 
 La compilarea modelului am folosit funcția binary_crossentropy, optimizer-ul
