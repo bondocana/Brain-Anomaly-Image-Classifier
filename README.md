@@ -16,7 +16,9 @@ Accuracy: 0.722
 
 f1_score: 0.40598290598290604
 
-![image](https://user-images.githubusercontent.com/95356241/236634665-e48bd04e-8c0f-4838-895d-c4f7a8c1c7cb.png)
+![image](https://user-images.githubusercontent.com/95356241/236637244-6d51530f-a77f-47e1-b8b3-8ff31024baa1.png)
+
+
 
 - Convolutional Neural Network(CNN)
 O Rețea Neuronală Convoluțională (CNN) este compusă din mai multe straturi, inclusiv straturi de convoluție, de max-pooling și de învățare a caracteristicilor. Straturile de convoluție scanează imaginea și detectează caracteristici precum marginile, colțurile, texturile etc.
@@ -33,6 +35,6 @@ Accuracy: 0.9004999995231628
 
 f1_score: 0.5446224256292906
 
-![image](https://user-images.githubusercontent.com/95356241/236637185-78196d48-868c-4d6a-962b-79f2b6aa3ab8.png)
+![image](https://user-images.githubusercontent.com/95356241/236637257-fd73e9be-41a5-4d6e-9a1c-bc35260efe8f.png)
+![image](https://user-images.githubusercontent.com/95356241/236637268-442a1082-760a-4d8d-993c-623683084bb9.png)
 
-![image](https://user-images.githubusercontent.com/95356241/236637192-51fd1f37-7f79-4e60-90cc-76c2457fb54e.png)
